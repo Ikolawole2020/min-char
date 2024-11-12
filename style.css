@@ -133,9 +133,15 @@ img{
         width: 100%;
         max-width: 150px;
     }
+    .img{
+        margin: 0 0 10px 0;
+        width:100%;
+        max-wid:150px;
+    }
 }
 
 @media(max-width:480px){
+    
     header h1{
         font-size: 2em;
     }
